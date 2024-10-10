@@ -7,12 +7,17 @@
 <hr/>
 
 <h2 align="center">🚀 About Me</h2>
-<p align="center">I'm Nagesh Merva, a passionate full-stack developer with expertise in crafting real-time web applications, e-commerce platforms, and community-based projects. I am constantly learning, growing, and eager to solve problems through code. When I'm not coding, I'm working on new ventures, including my own web and mobile development projects.</p>
+<p align="center">I'm Nagesh Merva, a passionate full-stack developer And Data Science Student with expertise in crafting real-time web applications, e-commerce platforms, and community-based projects. I am constantly learning, growing, and eager to solve problems through code. When I'm not coding, I'm working on new ventures, including my own web and mobile development projects.</p>
 
-- 🔭 I’m currently working on **Scribbs.AI** and **GearHub**, projects that combine AI and community-building.
-- 🌱 I’m learning **Llama3 for keyword research tools** and improving my **C#** skills for an Employee Management System.
-- 🏆 Achievements: Increased customer retention by 77% and boosted revenue by 28-37% for a client with my food order and delivery platform.
-- ⚡ Fun fact: I'm also a digital marketing enthusiast and love to blend creativity with technology.
+- 🔭 I’m currently working on **Scribz.AI** and **GearHub**, projects that combine AI and community-building.
+- 🌱 I’m learning **Advance python** and improving my **C++** skills for an DSA.
+- 🏆 Achievements:
+                  - WEB DEV LEAD at GDSC [ Google Developers Student Club ], GEC, Goa.
+                  - Technical Head at Ecell GEC, Goa.
+                  - Worked At agency as Web developer.
+                  - Participated in SIH 2024 and Llama-3 Hackathon by Lablab.ai.
+                  - Increased customer retention by 77% and boosted revenue by 28-37% for a client with my food order and delivery platform.
+- ⚡ Fun fact: I'm also a Marketing enthusiast and love to blend creativity with technology.
 
 <h2><img src="https://img.icons8.com/nolan/64/hardworking--v2.png" align="center" height="40" width="40"> My Projects</h2>
 
@@ -45,7 +50,7 @@ Check out more of my projects [here](https://github.com/nagesh-merva).
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img alt="Mongodb" src="https://img.shields.io/badge/mongodb-ffca28?style=for-the-badge&logo=mongodb&logoColor=black">
   <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
 </p>
 
