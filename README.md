@@ -35,7 +35,7 @@ Check out more of my projects [here](https://github.com/nagesh-merva).
   <a href="https://www.hackerearth.com/@nagesh_merva"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
 </p>
 
-<h2><img src="https://img.icons8.com/nolan/64/skills.png" align="center" height="40" width="40"> My Skills</h2>
+<h2><img src="https://img.icons8.com/nolan/64/skills.png" alt="Skills Icon" height="40" width="40"> My Skills</h2>
 
 <h3>Programming Languages</h3>
 <p align="center">
