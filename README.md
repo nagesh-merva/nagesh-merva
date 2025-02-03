@@ -70,10 +70,10 @@ Check out more of my projects [here](https://github.com/nagesh-merva).
 <h2>📊 GitHub Stats</h2>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=nagesh-merva&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=nagesh-merva&show_icons=true&theme=radical" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=nagesh-merva&show_icons=true&theme=radical" width="48%">
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=nagesh-merva&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh-merva&theme=radical" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh-merva&theme=radical" width="48%">
   </a>
 </p>
 
